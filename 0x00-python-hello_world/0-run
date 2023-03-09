@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+a = "Hello poeple"
+
+print(a, "\n")
+
