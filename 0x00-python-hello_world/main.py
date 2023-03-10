@@ -1,2 +1,2 @@
-!#/usr/bin/python3
-print("Krystal School")
+#!/usr/bin/python3
+print("Best School")
