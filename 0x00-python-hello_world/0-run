@@ -1,6 +1,3 @@
-#!/usr/bin/python3
-
-a = "Hello poeple"
-
-print(a, "\n")
+#!/bin/bash
+python3 "$PYFILE"
 
